@@ -1,0 +1,45 @@
+Vexium.cc – Terms of Service
+
+Last Updated: August 20, 2025
+
+These Terms of Service (“Terms”) govern your use of the FiveM software provided by Vexium.cc (“Software”). By using the Software, you fully accept these Terms. If you do not agree, you must not use the Software.
+
+1. License and Use
+
+Vexium.cc grants you a limited, non-transferable, and revocable license to use the Software solely for personal purposes and on authorized FiveM servers. All rights, title, and intellectual property in the Software remain with Vexium.cc.
+
+2. Support
+
+All support inquiries must be directed exclusively to vexliumdev@gmail.com
+.
+Vexium.cc will make reasonable efforts to respond to support requests, but response times and support scope are entirely at Vexium.cc’s discretion.
+
+3. No Refunds
+
+All sales of the Software are final. No refunds, returns, or exchanges will be provided under any circumstances. By using the Software, you acknowledge and accept that no refunds will be issued.
+
+4. User Responsibility
+
+You are solely responsible for any consequences resulting from the use of the Software. This includes, but is not limited to: server bans, account suspensions, or any other in-game penalties.
+
+5. Restrictions
+
+You may not:
+
+Redistribute, sell, or share the Software with others.
+
+Reverse engineer, decompile, or attempt to modify the Software.
+
+Use the Software for illegal activities or to harm other users.
+
+6. Termination
+
+Vexium.cc reserves the right to revoke your license and access to the Software at any time without prior notice if you violate these Terms.
+
+7. Limitation of Liability
+
+Vexium.cc is not liable for any damages, losses, or issues arising from the use of the Software, including but not limited to data loss, bans, or system failures.
+
+8. Acceptance
+
+By using the Software, you explicitly agree to these Terms, acknowledge that you have read them, and understand that support is limited, and refunds are not available.
